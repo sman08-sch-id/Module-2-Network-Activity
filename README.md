@@ -1,2 +1,8 @@
 # Module-2-Network-Activity
-Individual assignments for campus advisor
+
+* Fetch
+* Push
+* Remotes
+* Branches
+* Permissions
+* Managing student repositories
